@@ -1,0 +1,6 @@
+channels:
+  - file:///tmp/conda-repo/
+  - conda-forge
+  - defaults
+auto_update_conda: false
+show_channel_urls: true

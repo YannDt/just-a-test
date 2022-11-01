@@ -1,0 +1,13 @@
+{
+  "base_url": "/e-74DIUYAVVUC980K43HK2CJI2R/",
+  "hostname": "0.0.0.0",
+  "password": false,
+  "pid": 7,
+  "port": 8888,
+  "root_dir": "/home/notebook/work",
+  "secure": false,
+  "sock": "",
+  "token": "",
+  "url": "http://ip-10-130-136-182.ec2.internal:8888/e-74DIUYAVVUC980K43HK2CJI2R/",
+  "version": "1.18.0"
+}

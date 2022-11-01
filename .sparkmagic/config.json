@@ -1,0 +1,31 @@
+{
+  "kernel_python_credentials" : {
+    "username": "assumed-role_AWSReservedSSO_AWSAdministratorAccess_997fd390d288acce_yann_lira_e-core_com",
+    "url": "https://10.0.1.6:18888",
+    "auth": "None"
+  },
+
+  "kernel_scala_credentials" : {
+    "username": "assumed-role_AWSReservedSSO_AWSAdministratorAccess_997fd390d288acce_yann_lira_e-core_com",
+    "url": "https://10.0.1.6:18888",
+    "auth": "None"
+  },
+  "kernel_r_credentials": {
+    "username": "assumed-role_AWSReservedSSO_AWSAdministratorAccess_997fd390d288acce_yann_lira_e-core_com",
+    "url": "https://10.0.1.6:18888",
+    "auth": "None"
+  },
+
+  "ignore_ssl_errors": true,
+  "livy_session_startup_timeout_seconds": 300,
+
+  "session_configs": {
+    "conf":{
+      "spark.pyspark.python": "python3",
+      "spark.pyspark.virtualenv.enabled": "true",
+      "spark.pyspark.virtualenv.type":"native",
+      "spark.pyspark.virtualenv.bin.path":"/usr/bin/virtualenv"
+    }
+  }
+}
+

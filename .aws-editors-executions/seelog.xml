@@ -1,0 +1,18 @@
+<seelog>
+    <outputs>
+        <rollingfile
+                type="date"
+                filename="/home/notebook/.aws-editors-executions/logs/notebook-executor.log"
+                formatid="main"
+                datepattern="2006.01.02.15"
+                maxrolls="100"
+                fullname="true"
+        />
+        <filter levels="info, warn, error, critical" formatid="main">
+            <console />
+        </filter>
+    </outputs>
+    <formats>
+        <format id="main" format="%UTCDate %UTCTime [%File:%FuncShort:%Line] [%LEVEL] %Msg %n"/>
+    </formats>>
+</seelog>

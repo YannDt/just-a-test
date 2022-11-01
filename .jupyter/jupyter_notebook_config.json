@@ -1,0 +1,10 @@
+{
+  "NotebookApp": {
+    "nbserver_extensions": {
+      "sparkmagic": true,
+      "jupyterlab_code_formatter": true,
+      "jupyterlab_sql": true,
+      "jupyterlab_git": true
+    }
+  }
+}

@@ -1,0 +1,2 @@
+2022-11-01T14:09:46.568Z [INF] curl.cpp:InitMimeType(424): Loaded mime information from /etc/mime.types
+2022-11-01T14:09:46.573Z [INF] s3fs.cpp:s3fs_init(3393): init v1.91(commit:unknown) with OpenSSL
